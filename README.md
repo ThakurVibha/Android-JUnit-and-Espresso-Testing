@@ -6,12 +6,13 @@ This Android Kotlin application provides a simple class to validate passwords ac
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Unit Tests](#unit-tests)
 - [Contributing](#contributing)
 - [License](#license)
+- [Resources](#resources)
 
 ## Introduction
 
@@ -31,8 +32,4 @@ This application includes a `ValidatePassword` class, which validates passwords 
 - Android Studio
 - Kotlin installed in Android Studio
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ThakurVibha/JUnit-Espresso-Testing.git
