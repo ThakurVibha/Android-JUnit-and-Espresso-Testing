@@ -5,15 +5,7 @@ This Android Kotlin application provides a simple class to validate passwords ac
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Unit Tests](#unit-tests)
-- [Contributing](#contributing)
-- [License](#license)
-- [Resources](#resources)
-
+- 
 ## Introduction
 
 This application includes a `ValidatePassword` class, which validates passwords based on the following criteria:
@@ -25,11 +17,5 @@ This application includes a `ValidatePassword` class, which validates passwords 
 - Basic password validation functionality.
 - Unit tests to ensure the correctness of the validation logic.
 
-## Getting Started
-
-### Prerequisites
-
-- Android Studio
-- Kotlin installed in Android Studio
 
 
