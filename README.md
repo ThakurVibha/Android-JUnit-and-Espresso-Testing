@@ -1,3 +1,4 @@
-# JUnit-Espresso-Testing
+# Android JUnit and Espresso Unit Testing
 
-This Android Kotlin application provides a simple class to validate passwords according to specified criteria. It also includes unit tests written using JUnit and Espresso frameworks.
+This repository contains code examples and resources for learning and practicing unit testing with JUnit and Espresso in Android using Kotlin.
+
